@@ -1,3 +1,4 @@
+testing to make sure changes sync
 
 ```csharp title="SignalR HTTPS Cert"
     private static void SignalRCertVerification(HttpConnectionOptions options) {
