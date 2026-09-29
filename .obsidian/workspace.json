@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "649a5a30f6014f12",
+        "id": "fa5676123264248a",
         "type": "tabs",
         "children": [
           {
-            "id": "2dcca8f1543a6642",
+            "id": "9933011c93fb2688",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dotnet/Console.WriteLine Column Text Alignment.md",
+                "file": "dotnet/SignalR HTTPS Requirments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Console.WriteLine Column Text Alignment"
+              "title": "SignalR HTTPS Requirments"
             }
           }
         ]
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dotnet/Console.WriteLine Column Text Alignment.md",
+                "file": "dotnet/SignalR HTTPS Requirments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dotnet/Console.WriteLine Column Text Alignment.md",
+                "file": "dotnet/SignalR HTTPS Requirments.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,23 +200,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2dcca8f1543a6642",
+  "active": "35a1e04bc35f2405",
   "lastOpenFiles": [
-    "dotnet/SignalR HTTPS Requirments.md",
-    "common-terminal-cmds/git and gh commands.md",
-    "General.md",
-    "kubernetes-deployment/Overview.canvas",
-    "kubernetes-deployment/Web app Deployment Cofiguration.md",
-    "kubernetes-deployment/Cert Creation.md",
-    "common-terminal-cmds",
-    "dotnet/Console.WriteLine Column Text Alignment.md",
-    "dev_work/AlnRun Start_Stop Dummy Data.md",
     "kubernetes-deployment/Images/Pasted image 20260916134817.png",
-    "2026-09-23.md",
+    "kubernetes-deployment/Images/Pasted image 20260916135429.png",
+    "kubernetes-deployment/Cert Creation.md",
+    "kubernetes-deployment/Web app Deployment Cofiguration.md",
+    "kubernetes-deployment/Overview.canvas",
+    "General.md",
+    "dotnet/SignalR HTTPS Requirments.md",
+    "dotnet/Console.WriteLine Column Text Alignment.md",
+    "common-terminal-cmds/git and gh commands.md",
+    "dev_work/AlnRun Start_Stop Dummy Data.md",
+    "2026-09-29.md",
     "Untitled.base",
+    "common-terminal-cmds",
+    "2026-09-23.md",
     "Untitled.canvas",
     "dev_work",
-    "kubernetes-deployment/Images/Pasted image 20260916135429.png",
     "dotnet",
     "2026-09-16.md",
     "Drawing 2026-09-16 14.02.39.excalidraw.md",
