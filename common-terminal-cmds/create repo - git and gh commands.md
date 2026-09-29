@@ -11,5 +11,5 @@ git commit -m "Add gitignore"
 git rm -r --cached folder-to-ignore/
 git commit -m "remove folder from repo"
 gh repo sync -force
-```
+git and gh commands```
 
