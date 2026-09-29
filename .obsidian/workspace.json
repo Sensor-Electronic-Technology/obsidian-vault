@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General.md",
+                "file": "dotnet/Console.WriteLine Column Text Alignment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General"
+              "title": "Console.WriteLine Column Text Alignment"
             }
           }
         ]
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General.md",
+                "file": "dotnet/Console.WriteLine Column Text Alignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General.md",
+                "file": "dotnet/Console.WriteLine Column Text Alignment.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,28 +202,28 @@
   },
   "active": "2dcca8f1543a6642",
   "lastOpenFiles": [
-    "kubernetes Deployments/Overview.canvas",
-    "kubernetes Deployments/Web app Deployment Cofiguration.md",
-    "kubernetes Deployments/Cert Creation.md",
-    "Common Terminal Commands/git and gh commands.md",
-    "Common Terminal Commands",
     "dotnet/SignalR HTTPS Requirments.md",
+    "common-terminal-cmds/git and gh commands.md",
     "General.md",
+    "kubernetes-deployment/Overview.canvas",
+    "kubernetes-deployment/Web app Deployment Cofiguration.md",
+    "kubernetes-deployment/Cert Creation.md",
+    "common-terminal-cmds",
     "dotnet/Console.WriteLine Column Text Alignment.md",
     "dev_work/AlnRun Start_Stop Dummy Data.md",
-    "kubernetes Deployments/Images/Pasted image 20260916134817.png",
+    "kubernetes-deployment/Images/Pasted image 20260916134817.png",
     "2026-09-23.md",
     "Untitled.base",
     "Untitled.canvas",
     "dev_work",
-    "kubernetes Deployments/Images/Pasted image 20260916135429.png",
+    "kubernetes-deployment/Images/Pasted image 20260916135429.png",
     "dotnet",
     "2026-09-16.md",
     "Drawing 2026-09-16 14.02.39.excalidraw.md",
-    "kubernetes Deployments/Images",
+    "kubernetes-deployment/Images",
     "kubernetes Deployments/Untitled.base",
     "Kubernetes Deployments.md",
-    "kubernetes Deployments",
+    "kubernetes-deployment",
     "create a link.md"
   ]
 }

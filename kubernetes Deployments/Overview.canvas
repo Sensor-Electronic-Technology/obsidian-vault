@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"e5f9f46e86e85b8f","type":"file","file":"kubernetes Deployments/Web app Deployment Cofiguration.md","x":-1480,"y":-1140,"width":840,"height":760},
-		{"id":"4e25f224e37eae03","type":"file","file":"dotnet/SignalR HTTPS Requirments.md","x":-1480,"y":-320,"width":840,"height":860},
-		{"id":"d727ad37b471559f","type":"file","file":"kubernetes Deployments/Cert Creation.md","x":-600,"y":-660,"width":1040,"height":860,"color":"2"}
-	],
-	"edges":[]
-}
